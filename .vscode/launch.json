@@ -1,0 +1,14 @@
+{
+    "name": "Python: ROS2",
+    "type": "python",
+    "request": "launch",
+    "program": "${workspaceFolder}/my_robot_controller/my_robot_controller/turtle1.py",
+    "args": [],
+    "env": {},
+    "cwd": "${workspaceFolder}",
+    "console": "integratedTerminal",
+    "stopOnEntry": false,
+    "debugOptions": [
+        "RedirectOutput"
+    ]
+}
